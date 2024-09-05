@@ -1,1 +1,4 @@
 # Health-Insurance
+Based on medical examination, patient healthcare costs and hospitalization charges, here we are predicting the future rise in healthcare cost. This analysis is for seeking attention of Health insurance providers to make a variety of strategic and tactical decisions.
+We observed how different States are charging based on their city tier ranking and Hospital Tier ranking. It can also judge how smokers and non-smokers suffer from Diabetes and the way the BMI and HBA1c data vary. Which Age-group gone through no. of surgery and how many customers are there in every age group with heart issues and BMI diagnosed . Also seen cancer history in smoker.
+Also concluded that smoking and heart issues are independent and average hospitalization cost for smokers is significantly different from the average cost of non-smokers
